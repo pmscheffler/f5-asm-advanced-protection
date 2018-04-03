@@ -5,10 +5,10 @@
 # ------------
 #
 # REQUIRED: Your class/lab name
-classname = "Getting Started with F5 BIG-IP"
+classname = "ASM Advanced Mitigation Techniques"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
-github_repo = "https://github.com/f5devcentral/your-class-repo"
+github_repo = "https://github.com/pmscheffler/f5-asm-advanced-protection"
 
 # OPTIONAL: Google Analytics
 # googleanalytics_id = 'UA-85156643-4'
